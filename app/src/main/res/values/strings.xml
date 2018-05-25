@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Audito</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Text to Speech</string>
+    <string name="write">Write Text</string>
+    <string name="title_activity_text2_speech">Text2SpeechActivity</string>
+    <string name="app_name1">Speech To Text</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="emptystr" />
+    <string name="title_activity_learn">Learn</string>
+</resources>

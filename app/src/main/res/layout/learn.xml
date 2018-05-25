@@ -1,0 +1,158 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".learn">
+
+
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/button2"
+        android:layout_toStartOf="@+id/button2"
+        android:text="iː"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:text="ɪ"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="79dp"
+        android:layout_toEndOf="@+id/button5"
+        android:text="ʊ"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="252dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignStart="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:text="uː"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="125dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:text="e"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button1"
+        android:layout_toEndOf="@+id/button2"
+        android:text="ə"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignStart="@+id/button1"
+        android:layout_below="@+id/button4"
+        android:text="ɜ:"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:text="ɔː"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button4"
+        android:layout_toEndOf="@+id/button2"
+        android:text="æ"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_alignStart="@+id/button1"
+        android:layout_below="@+id/button7"
+        android:text="ʌ"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button7"
+        android:layout_centerHorizontal="true"
+        android:text="aː"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="114dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/button7"
+        android:layout_toEndOf="@+id/button2"
+        android:text="ɒ"
+        android:textAllCaps="false"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+
+</RelativeLayout>
